@@ -293,6 +293,9 @@ h3{
     position: relative;
 
   }
+  .whitewing{
+    max-width:100%
+  }
   .logo-messege{
     position: absolute;
     top:40%;
