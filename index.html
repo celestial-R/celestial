@@ -165,7 +165,7 @@
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://unpkg.com/scrollreveal"></script>
-  <script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+  
   <script>
   $(function () {
   ScrollReveal().reveal('.menu-card', {
@@ -244,11 +244,17 @@ ScrollReveal().reveal('.logo', {
 });
 </script>
 <script>
+  $(function () {
+  ScrollReveal().reveal('.whitewing', {
+    delay: 300, // アニメーション開始までの時間
+    duration: 1600, // アニメーション完了にかかる時間
+    origin: 'top', // 要素がどの方向から来るか
+    distance: '50px', // 移動する距離
+    reset: true // フレームインの度に動かすか
+  });
+  });
+  </script>
 
-  $('.whitewing').fadeIn()
-
-</script>
-  
 
   
  </body>
