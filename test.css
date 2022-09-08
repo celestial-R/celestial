@@ -97,16 +97,20 @@ h2.colorsp{
 }
 .conceptone{
   padding: 12px;
+  line-height: 1.5;
 }
 .concepttwo{
   padding: 12px;
+  line-height: 1.5;
 }
 h2{
   font-size: 40px
   color: #545454;
-  font-weight: normal;
+  font-weight: bold;
   text-align: center;
   margin: 5% auto;
+  font-size: inherit;
+  font-size: 1.5em;
 
 }
 .h2-img{
