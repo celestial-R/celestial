@@ -106,7 +106,7 @@ h2.colorsp{
 h2{
   font-size: 40px
   color: #545454;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   margin: 5% auto;
   font-size: inherit;
@@ -143,6 +143,7 @@ h3{
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
+  ont-weight: bold;
 }
 .menu-card-content{
   text-align: center;
