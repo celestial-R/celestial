@@ -82,7 +82,7 @@ h2.colorsp{
 }
 .logo-messege{
   position: absolute;
-  top:30%;
+  top:40%;
   left:50%;
   transform: translate(-30%,-50%);
   font-size: 25px;
