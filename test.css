@@ -1,7 +1,12 @@
 body{
   font-family: serif;
 }
-
+.toptoconcept{
+  font-family: serif;
+  background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+  background-repeat: round;
+  background-size: cover;
+}
 
 img{
   max-width: 100%;
@@ -21,10 +26,10 @@ ul.top li:hover{background-color: #85daf6;}
 #top {
   width: 100vw;
   height: 100vh;
-  background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*   background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,9 +42,9 @@ ul.top li:hover{background-color: #85daf6;}
 #concept{
   width: 100vw;
   height: 100vh;
-  background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*   background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   position: relative;
 
 }
@@ -133,9 +138,9 @@ h3{
 #portfolio{
   width: 100vw;
   height: 100vh;
-  background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*   background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   position: relative;
   padding-top:20px;
 }
@@ -166,9 +171,9 @@ h3{
 #portfolio2{
   width: 100vw;
   height: 100vh;
-  background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*   background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   position: relative;
   padding-top:20px;
   display: none;
@@ -198,9 +203,9 @@ h3{
 #contact{
   width: 100vw;
   height: 100vh;
-  background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*   background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   position: relative;
   background-position: center;
 }
@@ -336,9 +341,9 @@ h3{
   #portfolio{
     width: 100vw;
     height:auto;
-    background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*     background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     position: relative;
     padding-top:20px;
   }
@@ -358,9 +363,9 @@ h3{
     width: 100vw;
     /* 高さはauto */
     height: auto;
-    background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
+/*     background-image: url(https://github.com/celestial-R/celestial/blob/main/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%86%E3%82%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B30630.png?raw=true);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     position: relative;
     padding-top:20px;
     display:none;
