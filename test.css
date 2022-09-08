@@ -14,7 +14,10 @@ img{
 
 #header{
   background-color: #ffffff;
+  height: 38px;
+  margin-top: 20px;
 }
+
 ul.top{
   text-align: right;
 }
@@ -130,10 +133,21 @@ h3{
   text-align: center;
   color: #545454;
   font-weight: normal;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
 .menu-card-content{
   text-align: center;
   color: #545454;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  line-height: 1.7
 }
 .card-box{
   display:flex;
