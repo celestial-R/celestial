@@ -56,6 +56,14 @@ h2.color{
   top:5%;
   left:45%;
 }
+h2.colorsp{
+  font-size: 40px
+  color: #545454;
+  font-weight: normal;
+  position: absolute;
+  top:5%;
+  left:45%;
+}
 .container{
   display: flex;
   justify-content: space-around;
@@ -438,7 +446,14 @@ h3{
     margin-top: 30px;
     color: #545454;
   }
-
+  h2.colorsp{
+    font-size: 40px
+    color: #545454;
+    font-weight: normal;
+    position: absolute;
+    top:10%;
+    left:45%;
+  }
 
 
 }
