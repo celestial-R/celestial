@@ -363,7 +363,13 @@ h3{
   }
   .menu-card{
     margin: auto;
+    text-align: center;
   }
+  .menuimg {
+    width: 240px;
+    height: 200px;
+  }
+
 
   #portfolio{
     width: 100vw;
