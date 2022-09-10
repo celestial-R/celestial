@@ -49,6 +49,7 @@ ul.top li:hover{background-color: #85daf6;}
   background-repeat: no-repeat;
   background-size: cover; */
   position: relative;
+  adding: 20px 0;
 
 }
 .conceptbox{
@@ -60,7 +61,7 @@ h2.color{
   color: #545454;
   font-weight: normal;
   position: absolute;
-  top:5%;
+  top:10%;
   left:45%;
 }
 h2.colorsp{
@@ -80,8 +81,8 @@ h2.colorsp{
 
 }
 .concept-logo{
-  width:450px;
-  height: 450px;
+  width:400px;
+  height: 400px;
   position: relative;
 
 }
@@ -316,7 +317,7 @@ h3{
   }
   h2.color{
     transform: translate(-50%,-50%);
-    top: 5%;
+    top: 10%;
     left: 50%;
   }
   .conceptbox {
