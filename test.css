@@ -51,8 +51,8 @@ ul.top li:hover{background-color: #85daf6;}
   position: relative;
 
 }
-.conceptbox {
-  margin: 20px
+.conceptbox{
+  margin: 30px;
   background: rgba(255, 255, 255, 0.34);
 }
 h2.color{
