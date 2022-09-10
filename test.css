@@ -51,6 +51,10 @@ ul.top li:hover{background-color: #85daf6;}
   position: relative;
 
 }
+.conceptbox {
+  margin: 20px
+  background : rgba(255, 255, 255, 0.34);
+}
 h2.color{
   font-size: 40px
   color: #545454;
@@ -71,6 +75,7 @@ h2.colorsp{
   display: flex;
   justify-content: space-around;
   padding:200px 100px;
+  padding-bottom: 50px
 
 
 }
